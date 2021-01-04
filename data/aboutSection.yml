@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: Sobre
+title: >
+  ## Conheça nosso time
+
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+content: >
+  ### Tecnologia e inovação em veículos autônomos.
+
+   Criados em 2016, nosso principal domínio e foco atual é o desenvolvimento de Veículos Submarinos Autônomos (AUV's) , que são robôs não tripulados que realizam suas tarefas de forma totalmente independente .
+
+  Este tipo de veículo surge como uma necessidade de inovação para o mercado submarino,
+  que teve como primeira revolução a substituição de mergulhadores em várias tarefas por
+  robôs submarinos controlados remotamente ( ROVs ) e agora se vê com o objetivo.  
+button1Name: Artigos
+button2Name: Contato
+button1Target: blog
+button2Target: contact
+image: images/about/about-img.jpg

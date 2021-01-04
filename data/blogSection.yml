@@ -1,0 +1,9 @@
+---
+enable: true
+topTitle: Blog
+title: >
+  ## Artigos
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel est tellus. In et eleifend elit.
+
+buttonTarget: blog

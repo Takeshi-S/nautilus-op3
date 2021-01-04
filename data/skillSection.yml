@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Informações técnicas
+content: >
+  ## Alguns dados 
+
+
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel est tellus. In et eleifend elit. In non est euismod.
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: Algum dado
+    percent: 69
+  - title: Algum dado
+    percent: 60
+  - title: Algum dado
+    percent: 85
